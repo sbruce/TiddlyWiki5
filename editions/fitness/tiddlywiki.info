@@ -1,7 +1,8 @@
 {
 	"description": "Documentation from http://tiddlywiki.com",
 	"plugins": [
-		"sbruce/fitness"
+		"sbruce/fitness",
+		"sbruce/training_reference"
 	],
 	"themes": [
 		"tiddlywiki/vanilla",
